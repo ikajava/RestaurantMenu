@@ -1,0 +1,31 @@
+Monday
+	Beef burger
+	Tomato soup
+	Cola
+Tuesday
+	Carbonara Pizza
+	Creamy Potato Soup
+	Lemonade
+Wednesday
+	Salami Pizza
+	Greek salad
+	Cola
+Thursday 
+	Capricciosa Pizza
+	Avocado salad
+	Lemonade
+Friday
+	Bacon Pizza
+	Mushroom soup
+	Cola
+Saturday
+	Vegetarian Pizza
+	Pumpkin soup
+	Cola
+Sunday
+	Hawaii Pizza
+	Frutti di Mare
+	Lemonade
+
+
+	
